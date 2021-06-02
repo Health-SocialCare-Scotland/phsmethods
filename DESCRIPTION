@@ -34,7 +34,8 @@ Imports:
     stringr,
     tibble,
     utils,
-    jsonlite
+    jsonlite,
+    readr
 Suggests: 
     covr,
     here,
